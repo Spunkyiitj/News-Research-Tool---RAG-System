@@ -1,2 +1,1 @@
-# News-Research-Tool---RAG-System
-Na
+# News-Research-Tool
